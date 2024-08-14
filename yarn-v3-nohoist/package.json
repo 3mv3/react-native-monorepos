@@ -1,0 +1,8 @@
+{
+  "name": "@emv3/yarn_v2_monorepo_nohoist",
+  "packageManager": "yarn@4.0.2",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ]
+}

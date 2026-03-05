@@ -1,0 +1,9 @@
+{
+  "name": "@oc/ui",
+  "version": "0.0.0",
+  "description": "ui for oc-mobile",
+  "main": "src/index",
+  "author": " <> ()",
+  "license": "UNLICENSED",
+  "homepage": "#readme"
+}
